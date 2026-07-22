@@ -1,0 +1,6 @@
+{
+  "name": "Olympics9 Blogger Theme Upgrader",
+  "description": "An interactive optimization engine and theme customizer for the Olympics9 Blogger XML template, featuring live layouts, performance audit, and easy download of production-ready, SEO-optimized Blogger XML code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
